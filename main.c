@@ -6,7 +6,7 @@
 /*   By: flavon <flavon@student.21-school.ru>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/23 13:10:52 by flavon            #+#    #+#             */
-/*   Updated: 2020/09/15 05:35:27 by flavon           ###   ########.fr       */
+/*   Updated: 2020/11/16 22:24:01 by flavon           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -201,7 +201,5 @@ int		main(void)
 	strdup_test("allo \0 mon bars");
 	strdup_test("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tellus metus, finibus quis sagittis quis, volutpat a justo. Nunc et pellentesque quam. Fusce aliquam aliquam libero, sed pulvinar nullam.");
 	printf("\n");
-
-	printf("index = %d\n", ft_atoi_base("123", 4));
 
 }

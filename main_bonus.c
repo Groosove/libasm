@@ -6,11 +6,11 @@
 /*   By: flavon <flavon@student.21-school.ru>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/11/16 02:48:01 by flavon            #+#    #+#             */
-/*   Updated: 2020/11/16 03:33:24 by flavon           ###   ########.fr       */
+/*   Updated: 2020/11/16 22:23:39 by flavon           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libasm.h"
+#include "libasm_bonus.h"
 
 t_list	*ft_lstnew(void *content)
 {
